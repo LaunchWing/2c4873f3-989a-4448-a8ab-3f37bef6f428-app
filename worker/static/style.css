@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#resumeForm, #resumePreview {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+@media (min-width: 640px) {
+    #resumeForm, #resumePreview {
+        max-width: 800px;
+    }
+}
