@@ -1,0 +1,6 @@
+name = "2c4873f3-989a-4448-a8ab-3f37bef6f428-app"
+main = "worker/index.ts"
+compatibility_date = "2025-07-28"
+
+[site]
+bucket = "./worker/static"
